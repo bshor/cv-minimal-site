@@ -1,6 +1,6 @@
 # Minimal CV website
 
-This is a stripped-down starter for a one-page Quarto website that links directly to a PDF CV. The page includes simple places for a biography, publications, teaching, projects, and a profile picture. It contains no instructor content, publication database, sample CV, or HTML-CV machinery. It is used in POLS 6394, Social Science Computation and Data Science.
+This is a stripped-down starter for a one-page Quarto website that links directly to a PDF CV. The page includes simple places for a biography, publications, working papers, teaching, and a profile picture. It contains no instructor content, publication database, sample CV, or HTML-CV machinery. It is used in POLS 6394, Social Science Computation and Data Science.
 
 ## Attribution
 
@@ -12,7 +12,7 @@ This starter was adapted and greatly simplified by [Boris Shor](https://github.c
 2. Replace the name, subtitle, biography, email address, and GitHub URL in `index.qmd`.
 3. Replace `Your Name` in `_quarto.yml`.
 4. Replace `files/profile-placeholder.svg` with your own picture, or keep the placeholder until you have one.
-5. Replace, rename, or remove the example Publications, Teaching, and Projects entries.
+5. Replace, rename, or remove the example Publications, Working Papers, and Teaching entries.
 6. Put your rendered PDF CV at `files/cv.pdf`.
 7. Run `quarto render`.
 8. Commit and push the source files and the generated `docs/` folder.

@@ -26,6 +26,6 @@ Write two or three sentences about who you are, what you study, and what kinds o
 
 - Add a course, workshop, tutoring role, or teaching interest here.
 
-## Projects
+## Working Papers
 
-- Add one research, policy, or data project here, with a link when one is available.
+- Add a working-paper title, coauthors, status, and a link to a draft when one is available.
