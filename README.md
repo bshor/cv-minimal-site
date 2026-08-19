@@ -4,7 +4,7 @@ This is a stripped-down starter for a one-page Quarto website that links directl
 
 ## Attribution
 
-This starter was adapted and greatly simplified by [Boris Shor](https://github.com/bshor) from [Gang He's Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template), the MIT-licensed upstream template for Boris's academic site. The original copyright and license are preserved in `LICENSE`.
+This starter was adapted and greatly simplified by [Boris Shor](https://github.com/bshor) from [Gang He's Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template), the MIT-licensed upstream template for Boris's academic site. The original copyright and license are preserved in `LICENSE`, which also identifies Boris's 2026 modifications.
 
 ## Make it yours
 
