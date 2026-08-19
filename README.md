@@ -1,6 +1,10 @@
-# Minimal student website
+# Minimal CV website
 
-This is the POLS 6394 starter for a one-page Quarto website. It contains no instructor biography, publications, teaching pages, images, or sample CV.
+This is a stripped-down starter for a one-page Quarto website that links directly to a PDF CV. It contains no instructor biography, publications, teaching pages, images, sample CV, or HTML-CV machinery. It is used in POLS 6394, Social Science Computation and Data Science.
+
+## Attribution
+
+This starter was adapted and greatly simplified by [Boris Shor](https://github.com/bshor) from [Gang He's Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template), the MIT-licensed upstream template for Boris's academic site. The original copyright and license are preserved in `LICENSE`.
 
 ## Make it yours
 
