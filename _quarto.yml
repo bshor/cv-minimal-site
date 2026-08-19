@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - files/
 
 website:
   title: "Your Name"
@@ -14,4 +16,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-
